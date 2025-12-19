@@ -17,10 +17,10 @@ https://novelty.raksul.com/products/305?psi=152355
 - Vitamin B2
 - Vitamin B3
 - Vitamin B5
-- Vitamin B6 (including several variations)
+- Vitamin B6 (including analogues)
 - Vitamin B7
 - Vitamin B9
-- Vitamin B12 (including several variations)
+- Vitamin B12 (including analogues)
 - Vitamin C
 - Vitamin D2
 - Vitamin D3
