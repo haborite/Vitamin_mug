@@ -9,7 +9,7 @@ A mug desgin with chemical strucutures of vitamin molecules
 
 https://novelty.raksul.com/products/305?psi=152355
 
-「デザイン編集画面」から「ロゴ・デザインを追加する」を選んで、pdfファイルを選択してください。
+「デザイン編集画面」から「ロゴ・デザインを追加する」を選んで、ダウンロードした`vitamin_mug.pdf`を選択してください。
 
 # Included molecules
 - Vitamin A
