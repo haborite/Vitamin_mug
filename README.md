@@ -7,7 +7,7 @@ A mug desgin with chemical strucutures of vitamin molecules
 
 ラクスルの「定番陶器マグカップ　Mサイズ」用のテンプレートに沿ったデザインです。
 
-https://novelty.raksul.com/products/305?psi=152355
+https://novelty.raksul.com/products/305
 
 「デザイン編集画面」から「ロゴ・デザインを追加する」を選んで、ダウンロードした`vitamin_mug.pdf`を選択してください。
 
